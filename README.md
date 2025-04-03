@@ -1,5 +1,5 @@
 ### Hi there, I'm Meet! 👋
-🧑🏻‍💻 **Lead Mobile Developer | Kotlin | Swift | ReactNative**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetvora1994) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5373110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetvora1994@icloud.com) 
 
 I'm a **Mobile Application Developer** with a strong background in **Android (Jetpack Compose) and iOS (SwiftUI, UIKit)** development along with **React Native**. I have a passion for crafting high-performance mobile applications, optimizing CI/CD workflows, and integrating **BLE, and IoT solutions**.
 
@@ -10,7 +10,7 @@ I'm a **Mobile Application Developer** with a strong background in **Android (Je
 🚀 CI/CD Automation (Fastlane, App Center, GitLab, Jenkins)<br/>
 💡 Problem Solver (Always up for a challenge!)<br/>
 
-### 💻🛠️ Tech Stack:
+### 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/android-%3DDC84FF.svg?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=ios&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,10 +41,7 @@ I'm a **Mobile Application Developer** with a strong background in **Android (Je
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetvora1994) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5373110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetvora1994@icloud.com) 
-
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=meetvora1994&show_icons=true&theme=prussian)
 ![](https://nirzak-streak-stats.vercel.app/?user=meetvora1994&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meetvora1994&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
