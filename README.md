@@ -1,5 +1,5 @@
 ### Hi there, I'm Meet! 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetvora1994) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5373110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetvora1994@icloud.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetvora1994) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5373110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetvora1994@gmail.com) 
 
 I'm a **Mobile Application Developer** with a strong background in **Android (Jetpack Compose) and iOS (SwiftUI, UIKit)** development along with **React Native**. I have a passion for crafting high-performance mobile applications, optimizing CI/CD workflows, and integrating **BLE, and IoT solutions**.
 
